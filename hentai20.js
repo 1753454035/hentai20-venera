@@ -99,8 +99,8 @@ function h20ImageList(html) {
 
 class Hentai20Source extends ComicSource {
   name = "Hentai20";
-  key = "hentai20_io_v2";
-  version = "1.0.2";
+  key = "hentai20_io_v3";
+  version = "1.0.3";
   minAppVersion = "1.0.0";
   url = "https://cdn.jsdelivr.net/gh/1753454035/hentai20-venera@main/hentai20.js";
 
