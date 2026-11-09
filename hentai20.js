@@ -100,7 +100,7 @@ function h20ImageList(html) {
 class Hentai20Source extends ComicSource {
   name = "Hentai20";
   key = "hentai20_io_v2";
-  version = "1.0.0";
+  version = "1.0.2";
   minAppVersion = "1.0.0";
   url = "https://cdn.jsdelivr.net/gh/1753454035/hentai20-venera@main/hentai20.js";
 
@@ -123,43 +123,6 @@ class Hentai20Source extends ComicSource {
     }
   ];
 
-  category = {
-    title: "Hentai20 分类",
-    parts: [{
-      name: "Genres",
-      type: "fixed",
-      categories: [
-        "Action", "Adult", "Adventure", "Comedy", "Comics", "Doujinshi",
-        "Drama", "Ecchi", "Fantasy", "Gender Bender", "GL", "Harem",
-        "Hentai", "Historical", "Horror", "Isekai", "Josei", "Magic",
-        "Manga Hentai", "Manhwa", "Manhwa Hentai", "Martial Arts",
-        "Mature", "Mystery", "Psychological", "Raw", "Romance",
-        "School life", "Sci-Fi", "Seinen", "Shoujo", "Shounen",
-        "Slice of Life", "Smut", "Sports", "Supernatural", "Thriller",
-        "Tragedy", "Uncensored", "Yuri"
-      ],
-      itemType: "category",
-      categoryParams: [
-        "action","adult","adventure","comedy","comics","doujinshi",
-        "drama","ecchi","fantasy","gender-bender","gl","harem",
-        "hentai","historical","horror","isekai","josei","magic",
-        "manga-hentai","manhwa","manhwa-hentai","martial-arts",
-        "mature","mystery","psychological","raw","romance",
-        "school-life","sci-fi","seinen","shoujo","shounen",
-        "slice-of-life","smut","sports","supernatural","thriller",
-        "tragedy","uncensored","yuri"
-      ]
-    }]
-  };
-
-  categoryComics = {
-    load: async (category, param, options, page) => {
-      const p = encodeURIComponent(param || String(category || "").toLowerCase().replace(/\s+/g, "-"));
-      const url = H20_BASE + "/?taxonomy=wp-manga-genre&term=" + p + ((page || 1) > 1 ? "&paged=" + page : "");
-      const html = await h20Fetch(url);
-      return { comics: h20ParseComics(html), maxPage: h20MaxPage(html) };
-    }
-  };
 
   search = {
     load: async (keyword, options, page) => {
