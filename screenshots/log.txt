@@ -1,0 +1,432 @@
+Logs
+
+info Reader 2026-11-09 14:47:01.097531 
+Detect available RAM: 2592944128, set image cache size to 314572800
+
+error Image Loading 2026-11-09 14:47:04.312145 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Unhandled Exception 2026-11-09 14:47:04.312516 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Image Loading 2026-11-09 14:47:08.582508 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+info Reader 2026-11-09 14:47:12.092993 
+Detect available RAM: 2512519168, set image cache size to 314572800
+
+error Image Loading 2026-11-09 14:47:14.897106 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Unhandled Exception 2026-11-09 14:47:14.897243 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Image Loading 2026-11-09 14:47:15.563663 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Unhandled Exception 2026-11-09 14:47:15.563845 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Image Loading 2026-11-09 14:47:18.997359 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Unhandled Exception 2026-11-09 14:47:18.997559 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Image Loading 2026-11-09 14:47:23.189214 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Image Loading 2026-11-09 14:47:25.276101 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Unhandled Exception 2026-11-09 14:47:25.276361 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Unhandled Exception 2026-11-09 14:47:25.276521 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Image Loading 2026-11-09 14:47:27.278927 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Unhandled Exception 2026-11-09 14:47:27.278978 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Image Loading 2026-11-09 14:47:31.117647 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Image Loading 2026-11-09 14:47:33.472961 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Unhandled Exception 2026-11-09 14:47:35.674777 
+Null check operator used on a null value
+#0      _GalleryModeState.handleLongPressDown (package:venera/pages/reader/images.dart:634)
+#1      _ReaderGestureDetectorState.onLongPressedDown (package:venera/pages/reader/gesture.dart:433)
+#2      _ReaderGestureDetectorState.build.<anonymous closure>.<anonymous closure> (package:venera/pages/reader/gesture.dart:100)
+#3      new Future.delayed.<anonymous closure> (dart:async/future.dart:440)
+#4      _rootRun (dart:async/zone_root.dart:27)
+#5      _CustomZone.run (dart:async/zone.dart:726)
+#6      _CustomZone.runGuarded (dart:async/zone.dart:625)
+#7      _CustomZone.bindCallbackGuarded.<anonymous closure> (dart:async/zone.dart:666)
+#8      _rootRun (dart:async/zone_root.dart:35)
+#9      _CustomZone.run (dart:async/zone.dart:726)
+#10     _CustomZone.bindCallback.<anonymous closure> (dart:async/zone.dart:649)
+#11     TickerFuture.whenCompleteOrCancel.thunk (package:flutter/src/scheduler/ticker.dart:464)
+#12     _Timer._runTimers (dart:isolate-patch/timer_impl.dart:423)
+#13     _Timer._handleMessage (dart:isolate-patch/timer_impl.dart:454)
+#14     _RawReceivePort._handleMessage (dart:isolate-patch/isolate_patch.dart:192)
+
+
+error Image Loading 2026-11-09 14:48:32.593060 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Unhandled Exception 2026-11-09 14:48:32.593266 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+info Reader 2026-11-09 14:50:52.479572 
+Detect available RAM: 2976858112, set image cache size to 314572800
+
+error Image Loading 2026-11-09 14:50:56.306094 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Image Loading 2026-11-09 14:50:58.597945 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Unhandled Exception 2026-11-09 14:50:58.598077 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+info Reader 2026-11-09 14:51:01.650020 
+Detect available RAM: 2913513472, set image cache size to 314572800
+
+error Unhandled Exception 2026-11-09 14:51:02.590965 
+Null check operator used on a null value
+#0      _ReaderGestureDetectorState.onTap (package:venera/pages/reader/gesture.dart:266)
+#1      _ReaderGestureDetectorState.onTapUp.<anonymous closure> (package:venera/pages/reader/gesture.dart:259)
+#2      new Future.delayed.<anonymous closure> (dart:async/future.dart:440)
+#3      _rootRun (dart:async/zone_root.dart:27)
+#4      _CustomZone.run (dart:async/zone.dart:726)
+#5      _CustomZone.runGuarded (dart:async/zone.dart:625)
+#6      _CustomZone.bindCallbackGuarded.<anonymous closure> (dart:async/zone.dart:666)
+#7      _rootRun (dart:async/zone_root.dart:35)
+#8      _CustomZone.run (dart:async/zone.dart:726)
+#9      _CustomZone.bindCallback.<anonymous closure> (dart:async/zone.dart:649)
+#10     TickerFuture.whenCompleteOrCancel.thunk (package:flutter/src/scheduler/ticker.dart:464)
+#11     _Timer._runTimers (dart:isolate-patch/timer_impl.dart:423)
+#12     _Timer._handleMessage (dart:isolate-patch/timer_impl.dart:454)
+#13     _RawReceivePort._handleMessage (dart:isolate-patch/isolate_patch.dart:192)
+
+
+error Unhandled Exception 2026-11-09 14:51:03.312540 
+Null check operator used on a null value
+#0      _ReaderGestureDetectorState.onTap (package:venera/pages/reader/gesture.dart:266)
+#1      _ReaderGestureDetectorState.onTapUp (package:venera/pages/reader/gesture.dart:253)
+#2      TapGestureRecognizer.handleTapUp.<anonymous closure> (package:flutter/src/gestures/tap.dart:755)
+#3      GestureRecognizer.invokeCallback (package:flutter/src/gestures/recognizer.dart:345)
+#4      TapGestureRecognizer.handleTapUp (package:flutter/src/gestures/tap.dart:755)
+#5      BaseTapGestureRecognizer._checkUp (package:flutter/src/gestures/tap.dart:383)
+#6      BaseTapGestureRecognizer.handlePrimaryPointer (package:flutter/src/gestures/tap.dart:314)
+#7      PrimaryPointerGestureRecognizer.handleEvent (package:flutter/src/gestures/recognizer.dart:721)
+#8      PointerRouter._dispatch (package:flutter/src/gestures/pointer_router.dart:97)
+#9      PointerRouter._dispatchEventToRoutes.<anonymous closure> (package:flutter/src/gestures/pointer_router.dart:140)
+#10     _LinkedHashMapMixin.forEach (dart:_compact_hash:772)
+#11     PointerRouter._dispatchEventToRoutes (package:flutter/src/gestures/pointer_router.dart:138)
+#12     PointerRouter.route (package:flutter/src/gestures/pointer_router.dart:128)
+#13     GestureBinding.handleEvent (package:flutter/src/gestures/binding.dart:528)
+#14     GestureBinding.dispatchEvent (package:flutter/src/gestures/binding.dart:498)
+#15     RendererBinding.dispatchEvent (package:flutter/src/rendering/binding.dart:473)
+#16     GestureBinding._handlePointerEventImmediately (package:flutter/src/gestures/binding.dart:437)
+#17     GestureBinding.handlePointerEvent (package:flutter/src/gestures/binding.dart:394)
+#18     GestureBinding._flushPointerEventQueue (package:flutter/src/gestures/binding.dart:341)
+#19     GestureBinding._handlePointerDataPacket (package:flutter/src/gestures/binding.dart:308)
+#20     _rootRunUnary (dart:async/zone_root.dart:56)
+#21     _CustomZone.runUnary (dart:async/zone.dart:733)
+#22     _CustomZone.runUnaryGuarded (dart:async/zone.dart:633)
+#23     _invoke1 (dart:ui/hooks.dart:441)
+#24     PlatformDispatcher._dispatchPointerDataPacket (dart:ui/platform_dispatcher.dart:470)
+#25     _dispatchPointerDataPacket (dart:ui/hooks.dart:374)
+
+
+error Image Loading 2026-11-09 14:51:05.971160 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Unhandled Exception 2026-11-09 14:51:05.971317 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+info Reader 2026-11-09 14:51:11.229159 
+Detect available RAM: 2851344384, set image cache size to 314572800
+
+error Image Loading 2026-11-09 14:51:16.930196 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Unhandled Exception 2026-11-09 14:51:16.930365 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Image Loading 2026-11-09 14:51:18.675592 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Unhandled Exception 2026-11-09 14:51:18.675806 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
+error Image Loading 2026-11-09 14:52:47.404498 
+Exception: Invalid image data
+#0      _futurize (dart:ui/painting.dart:9223)
+#1      ImageDescriptor.encoded (dart:ui/painting.dart:9004)
+#2      instantiateImageCodecWithSize (dart:ui/painting.dart:2595)
+#3      PaintingBinding.instantiateImageCodecWithSize (package:flutter/src/painting/binding.dart:147)
+#4      BaseImageProvider._loadBufferAsync (package:venera/foundation/image_provider/base_image_provider.dart:123)
+<asynchronous suspension>
+#5      MultiFrameImageStreamCompleter._handleCodecReady (package:flutter/src/painting/image_stream.dart:1021)
+<asynchronous suspension>
+
+
